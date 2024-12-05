@@ -1,0 +1,498 @@
+{
+  "users": [
+    {
+      "email": "vanh210211@gmail.com",
+      "password": "$2a$10$pDPLoS9BB4z2z54EXbrOlOpr77aVEbB2xyWGWB.VVlArrMN.nbuf.",
+      "name": "Hoàng Việt Anh",
+      "phone": "0968638211",
+      "address": "Ha Noi",
+      "confirmPassword": "0123456",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Tee horse White",
+      "price": 599000,
+      "size": ["S", "M", "L"],
+      "color": "white",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/736x/d4/90/9f/d4909fc6c1da71b5aff6dd72248bb3de.jpg",
+        "https://i.pinimg.com/564x/8d/8b/d4/8d8bd410c2fdb872b50b8a2af683696e.jpg"
+      ]
+    },
+    {
+      "title": "Tee horse Black",
+      "price": 299000,
+      "size": ["S", "M", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/ef/4f/a3/ef4fa3f93992d6a9d556ff79e3db1b2c.jpg",
+        "https://i.pinimg.com/736x/36/4d/5c/364d5cbcbd25d3e5a203396018a8ed94.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "title": "MESH LOGO SHORTS - BLACK",
+      "price": 400000,
+      "size": ["S", "M", "L"],
+      "color": "black",
+      "category": "bottoms",
+      "detail": "short",
+      "image": [
+        "https://i.pinimg.com/564x/d1/44/09/d1440989b0816129908c5d52b9162637.jpg",
+        "https://i.pinimg.com/564x/6c/1d/60/6c1d60976557ed648ba19fe764f49aa1.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "title": "Tee Feeling Love",
+      "price": 395000,
+      "size": ["S", "L", "XL"],
+      "color": "#FFFDD0",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/27/ea/61/27ea61170a3b68bf0e6c88771ae09a24.jpg",
+        "https://i.pinimg.com/564x/22/15/f1/2215f181d925437740ee2ab7d7657eeb.jpg",
+        "https://i.pinimg.com/564x/15/c3/10/15c3102ba584b8ee5f74183c63e4553e.jpg"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Tee Signature Black",
+      "price": 595000,
+      "size": ["S", "M", "L", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/39/3e/07/393e07678ce211ce7300ba71c20f5aa9.jpg",
+        "https://i.pinimg.com/564x/79/44/0a/79440a2df58d53d0ca6ee5e36e80f3f7.jpg",
+        "https://i.pinimg.com/736x/36/4d/5c/364d5cbcbd25d3e5a203396018a8ed94.jpg"
+      ],
+      "id": 4
+    },
+    {
+      "title": "MESH LOGO SHORTS - CREAMMESH LOGO SHORTS - CREAM",
+      "price": 400000,
+      "size": ["S", "L", "XL"],
+      "color": "#FFFDD0",
+      "category": "bottoms",
+      "detail": "short",
+      "image": [
+        "https://i.pinimg.com/564x/8a/5d/76/8a5d76597b9a679de523a5a61f0d3415.jpg",
+        "https://i.pinimg.com/564x/58/73/18/587318e3a0cae9328353c84361a89639.jpg",
+        "https://i.pinimg.com/564x/b0/8a/b2/b08ab2dd99a3c2258bfe557c2c2a8ad3.jpg"
+      ],
+      "id": 12
+    },
+
+    {
+      "title": "WAFFLE TEE - BLACKWAFFLE TEE - BLACK",
+      "price": 395000,
+      "size": ["S", "M", "L"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/ef/48/8f/ef488fa2ea5ac01397f881b412237454.jpg",
+        "https://i.pinimg.com/564x/b9/f6/1a/b9f61a1a75119df474e610dd6ea2db42.jpg",
+        "https://i.pinimg.com/564x/fc/d6/b8/fcd6b824132f5799cc05a45cc41d7eeb.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "title": "JOY TEE - WHITEJOY TEE - WHITE",
+      "price": 295000,
+      "size": ["S", "M", "L", "XL"],
+      "color": "white",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/ae/09/44/ae09447b1ac76462fa8dbe380d2c2d26.jpg",
+        "https://i.pinimg.com/564x/92/6d/12/926d1259cb021e1efb64f19debd41bb8.jpg",
+        "https://i.pinimg.com/564x/4a/a1/60/4aa160f77478d7e4ac5256768a2804f6.jpg"
+      ],
+      "id": 6
+    },
+    {
+      "title": "JOY TEE - WHITEJOY TEE - BLACK",
+      "price": 395000,
+      "size": ["S", "M", "L", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/41/1a/4c/411a4c35c5d4e9ebe656ade66feda6af.jpg",
+        "https://i.pinimg.com/564x/40/1a/98/401a98468e5d07e11e15a38f31833620.jpg"
+      ],
+      "id": 7
+    },
+    {
+      "title": "CARS TEE - BLACKCARS TEE - BLACK",
+      "price": 350000,
+      "size": ["M", "L", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://bizweb.dktcdn.net/100/318/614/products/mt-2-compressed-1.jpg?v=1692009841287",
+        "https://bizweb.dktcdn.net/100/318/614/products/ms-2-compressed-1.jpg?v=1692009841287",
+        "https://bizweb.dktcdn.net/100/318/614/products/logo-2-compressed-1.jpg?v=1692009852477"
+      ],
+      "id": 8
+    },
+    {
+      "title": "EARTH TEE - WHITEEARTH TEE - WHITE",
+      "price": 350000,
+      "size": ["M", "L", "XL"],
+      "color": "white",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/9b/dc/a7/9bdca791c188da68820fdb7e5d5d0f2b.jpg",
+        "https://i.pinimg.com/564x/d9/89/53/d98953140ed8b542036e8ede69f13437.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "title": "EARTH TEE - BLACKEARTH TEE - BLACK",
+      "price": 350000,
+      "size": ["S", "L", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/ef/ad/3d/efad3de5e44935596a8c48f297b36ec2.jpg",
+        "https://i.pinimg.com/564x/71/5c/58/715c58d581db7cad3a534c017657b1b0.jpg",
+        "https://i.pinimg.com/564x/71/5c/58/715c58d581db7cad3a534c017657b1b0.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "title": "FROZEN RIVER TEE - WHITEFROZEN RIVER TEE - WHITE",
+      "price": 350000,
+      "size": ["S", "L", "XL"],
+      "color": "white",
+      "category": "top",
+      "detail": "tee",
+      "image": [
+        "https://i.pinimg.com/564x/09/b5/a2/09b5a2d43bde8ab30177a0a1428a98ce.jpg",
+        "https://i.pinimg.com/564x/08/58/fa/0858fa3f36bf15bfcc20a71e5553b060.jpg",
+        "https://i.pinimg.com/564x/b0/0a/a2/b00aa29721481c699fcc4a0268f21b51.jpg"
+      ],
+      "id": 11
+    },
+    {
+      "title": "WIDE FIT JEANS - BLUE",
+      "price": 580000,
+      "size": ["S", "M", "L", "XL"],
+      "color": "blue",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/b3/e0/03/b3e003cb7c10db483c3924b663aafbca.jpg",
+        "https://i.pinimg.com/564x/83/ae/64/83ae64a034c87716fe65e656f8ba6c65.jpg",
+        "https://i.pinimg.com/564x/82/ac/00/82ac008a6dee7e2c99ab5a032fd88beb.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "title": "WIDE FIT JEANS - BLACK",
+      "price": 580000,
+      "size": ["S", "M", "L", "XL"],
+      "color": "black",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/41/24/2e/41242eb6c6741550f86e5b9012257287.jpg",
+        "https://i.pinimg.com/564x/ae/92/27/ae92272dcd2ed98d495e1fa2ccee6e55.jpg",
+        "https://i.pinimg.com/564x/a1/f2/fc/a1f2fc029631de905b66bb7dacd4d8ef.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "title": "NOWSG STRAIGHT SWEATPANTS - CREAM",
+      "price": 520000,
+      "size": ["S", "L", "XL"],
+      "color": "#FFFDD0",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/e4/4d/f4/e44df474db3fb4724b1d4e3951552a62.jpg",
+        "https://i.pinimg.com/564x/8e/34/b9/8e34b9306847bf5af0faba2d8ca18825.jpg",
+        "https://i.pinimg.com/564x/a7/56/8b/a7568b30d6cbae3a6305fe52a194f46e.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "title": "NOWSAIGON SWEATSHORTS - BLACK",
+      "price": 350000,
+      "size": ["S", "M", "L"],
+      "color": "black",
+      "category": "bottoms",
+      "detail": "short",
+      "image": [
+        "https://i.pinimg.com/564x/99/c0/f4/99c0f459890962e4418d313d13e81f34.jpg",
+        "https://i.pinimg.com/564x/8a/e7/6e/8ae76ee48188b1fca460258ed6f39597.jpg"
+      ],
+      "id": 17
+    },
+    {
+      "title": "STRAIGHT RAW SWEATPANTS - BLACK",
+      "price": 545000,
+      "size": ["S", "L", "XL"],
+      "color": "black",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/7d/97/23/7d9723165b1efdba1e7bfb01a37877c2.jpg",
+        "https://i.pinimg.com/564x/1c/f1/ce/1cf1ce805d7f98eebfacefa2074377b2.jpg"
+      ],
+      "id": 18
+    },
+    {
+      "title": "JEANS CARGO PANTS",
+      "price": 595000,
+      "size": ["M", "L", "XL"],
+      "color": "black",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/de/31/25/de3125bb90f5b9d2ef8979cb6d57bc86.jpg",
+        "https://i.pinimg.com/564x/e0/3a/c3/e03ac34bfa48ab6065b5a23ab93d12b7.jpg",
+        "https://i.pinimg.com/564x/34/8f/6e/348f6e63857a6dd73c768894ef67490a.jpg"
+      ],
+      "id": 19
+    },
+    {
+      "title": "TRACK PANTS - GREY",
+      "price": 495000,
+      "size": ["S", "L", "XL"],
+      "color": "grey",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/2d/e1/04/2de104b71481accc417fa7b591605c82.jpg",
+        "https://i.pinimg.com/564x/43/40/80/434080a46d26dc05b629bdc0558560e2.jpg",
+        "https://i.pinimg.com/564x/07/dd/02/07dd02b5f744feccacd87bd2302f3e8f.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "title": "STRAIGHT RAW SWEATPANTS - CREAM",
+      "price": 595000,
+      "size": ["M", "L", "XL"],
+      "color": "#FFFDD0",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/90/c6/12/90c612498b39754ef71f96ff0fce5074.jpg",
+        "https://i.pinimg.com/564x/a7/56/8b/a7568b30d6cbae3a6305fe52a194f46e.jpg",
+        "https://i.pinimg.com/564x/8e/34/b9/8e34b9306847bf5af0faba2d8ca18825.jpg"
+      ],
+      "id": 22
+    },
+    {
+      "title": "STRAIGHT RAW SWEATPANTS - GREEN",
+      "price": 595000,
+      "size": ["S", "L", "XL"],
+      "color": "green",
+      "category": "bottoms",
+      "detail": "long",
+      "image": [
+        "https://i.pinimg.com/564x/62/25/d0/6225d099b182fe3119efcbcc73565057.jpg",
+        "https://i.pinimg.com/564x/65/53/4d/65534d92dbb55f876ad682926104800d.jpg",
+        "https://i.pinimg.com/564x/15/94/9d/15949d3b232f091118c4c1cb2200f582.jpg"
+      ],
+      "id": 23
+    },
+    {
+      "title": "Áo Polo Nam Tay Ngắn Phối Màu Form Fitted ",
+      "price": 595000,
+      "size": ["S", "M", "XL"],
+      "color": "red",
+      "category": "top",
+      "detail": "POLO",
+      "image": [
+        "https://i.pinimg.com/564x/47/4f/0a/474f0a0577db43953ff10228a54447c9.jpg",
+        "https://i.pinimg.com/564x/5c/19/58/5c19588ab4d4f01acca9dc3391a18473.jpg",
+        "https://i.pinimg.com/564x/99/8d/c2/998dc219ec44366e0d89a07af847a0fd.jpg"
+      ],
+      "id": 24
+    },
+    {
+      "title": "Polo Tay Ngắn Xanh Than Trơn Form Fitted",
+      "price": 195000,
+      "size": ["M", "L", "XL"],
+      "color": "black",
+      "category": "top",
+      "detail": "POLO",
+      "image": [
+        "https://product.hstatic.net/200000690725/product/tp038---bt019-_8__a38cf925519a4f0ea12eb16c722d097c_master.jpg",
+        "https://product.hstatic.net/200000690725/product/tp038---bt019-_12__a93088966b7943baa8a22e5981465500_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52761730415_8223a81b1b_o_1e64a9a686b6432fb8990a3a289b8cf5_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52760779527_28e054262c_o_bb10a6c6e4e043b798dc4497caad2bfd_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52761574564_3e8b70c397_o_9b4eb5c4706d4515b26b43ecb881a894_master.jpg"
+      ],
+      "id": 25
+    },
+    {
+      "title": "Polo Tay Ngắn  Trơn Form Fitted",
+      "price": 195000,
+      "size": ["S", "M", "XL"],
+      "color": "green",
+      "category": "top",
+      "detail": "POLO",
+      "image": [
+        "https://product.hstatic.net/200000690725/product/estp041-16_4cb9d42d84e7436884bd3f4e648621ed_master.jpg",
+        "https://product.hstatic.net/200000690725/product/estp041-12_f4f5deac05fa47789c5897ba7a06818f_master.jpg",
+        "https://product.hstatic.net/200000690725/product/estp041-11_5cc08ee5a7f94d739d935b090e8657ce_master.jpg"
+      ],
+      "id": 26
+    },
+    {
+      "title": "Áo Polo Trắng Kẻ Ngang Đen Form Fitted",
+      "price": 595000,
+      "size": ["S", "M", "L"],
+      "color": "white",
+      "category": "top",
+      "detail": "POLO",
+      "image": [
+        "https://product.hstatic.net/200000690725/product/estp023_f704d9ca4a9142c587f3d01d7bf20088_master.jpg",
+        "https://product.hstatic.net/200000690725/product/estp023-2_e8cc41d54ae748558cbb1fefc99ffa80_master.jpg",
+        "https://product.hstatic.net/200000690725/product/estp023-1_5edc19002378402cb9735f41707e8774_master.jpg"
+      ],
+      "id": 27
+    },
+    {
+      "title": "Áo Polo Tay Ngắn Kẻ Ngang Form Fitted",
+      "price": 1100000,
+      "size": ["S", "M"],
+      "color": "black",
+      "category": "top",
+      "detail": "POLO",
+      "image": [
+        "https://product.hstatic.net/200000690725/product/estp015_a0e07e027c614085b06c261c289544ab_master.jpg",
+        "https://product.hstatic.net/200000690725/product/estp015-1_4850d0b18f664531958be981c80b3849_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52984839667_2b60bd0a5c_o_3c6abb663b134583890c1f84a05afa34_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52984839677_166d006737_o_fc68f12b29e142d59606766fb1788e5a_master.jpg",
+        "https://product.hstatic.net/200000690725/product/52985585104_6b4d0aa540_o_5bfd3df1d8074e8b988393d17058d82e_master.jpg"
+      ],
+      "id": 28
+    },
+
+    {
+      "title": "Hoodie Thể Thao Tay Ngắn Có Nón",
+      "price": 895000,
+      "size": ["S"],
+      "color": "black",
+      "category": "top",
+      "detail": "hoodie",
+      "image": [
+        "https://bizweb.dktcdn.net/100/318/614/products/7-8fdc7296-eb97-4028-971a-66a16a3dd59a.jpg?v=1659344373017",
+        "https://bizweb.dktcdn.net/thumb/large/100/318/614/products/8.jpg",
+        "https://bizweb.dktcdn.net/thumb/large/100/318/614/products/a4-d8a36983-07c7-45a1-a725-f42be986f453.jpg"
+      ],
+      "id": 31
+    },
+    {
+      "title": "Hoodie Unisex Tay Dài - Màu Đỏ",
+      "price": 795000,
+      "size": ["S"],
+      "color": "white",
+      "category": "top",
+      "detail": "hoodie",
+      "image": [
+        "https://bizweb.dktcdn.net/100/369/010/products/1-b5f23cb0-7909-4401-a3f0-2d86c8219403.jpg?v=1726825807073",
+        "https://bizweb.dktcdn.net/100/369/010/products/2-dae4cd5d-b26b-4cad-ae38-8ae23adc5b39.jpg?v=1726825808350",
+        "https://bizweb.dktcdn.net/100/369/010/products/28-2e547d62-db8c-4df3-9bfc-a9132c96c833.jpg?v=1726825808350"
+      ],
+      "id": 32
+    }
+  ],
+  "orders": [
+    {
+      "idUser": "1",
+      "cartInfo": {
+        "info": {
+          "email": "vanh210211@gmail.com",
+          "name": "Hoàng Việt Anh",
+          "phone": "0968638211",
+          "address": "HaNoi"
+        },
+        "orderAt": "Thu Oct 17 2024"
+      },
+      "carts": [
+        {
+          "title": "Tee horse Black",
+          "price": 299000,
+          "size": "M",
+          "color": "black",
+          "category": "top",
+          "detail": "tee",
+          "image": [
+            "https://i.pinimg.com/564x/ef/4f/a3/ef4fa3f93992d6a9d556ff79e3db1b2c.jpg",
+            "https://i.pinimg.com/736x/36/4d/5c/364d5cbcbd25d3e5a203396018a8ed94.jpg"
+          ],
+          "id": 2,
+          "quantity": 2,
+          "total": 598000
+        }
+      ],
+      "id": 1
+    },
+    {
+      "idUser": 1,
+      "cartInfo": {
+        "info": {
+          "email": "vanh210211@gmail.com",
+          "name": "Hoàng Việt Anh",
+          "phone": "0968638211",
+          "address": "HaNoi"
+        },
+        "orderAt": "Thu Oct 17 2024"
+      },
+      "carts": [
+        {
+          "title": "Tee horse Black",
+          "price": 299000,
+          "size": "M",
+          "color": "black",
+          "category": "top",
+          "detail": "tee",
+          "image": [
+            "https://i.pinimg.com/564x/ef/4f/a3/ef4fa3f93992d6a9d556ff79e3db1b2c.jpg",
+            "https://i.pinimg.com/736x/36/4d/5c/364d5cbcbd25d3e5a203396018a8ed94.jpg"
+          ],
+          "id": 2,
+          "quantity": 2,
+          "total": 598000
+        },
+        {
+          "id": 1,
+          "title": "Tee horse White",
+          "price": 599000,
+          "size": "S",
+          "color": "white",
+          "category": "top",
+          "detail": "tee",
+          "image": [
+            "https://i.pinimg.com/736x/d4/90/9f/d4909fc6c1da71b5aff6dd72248bb3de.jpg",
+            "https://i.pinimg.com/564x/8d/8b/d4/8d8bd410c2fdb872b50b8a2af683696e.jpg",
+            "https://i.pinimg.com/564x/8d/8b/d4/8d8bd410c2fdb872b50b8a2af683696e.jpg"
+          ],
+          "quantity": 2,
+          "total": 1198000
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
